@@ -1,4 +1,4 @@
-Project description: This is a similar project that I did using internal tools in Grab for publishing content.
+Project description: This is a similar project that I did using internal tools in my company for publishing content.
 
 Each time before a content is created, I had to change the settings within the internal tools to get the correct HTML formatting settings.
 With this spreadsheet, there is no need for that as the settings are already defined.
